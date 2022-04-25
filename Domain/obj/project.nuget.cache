@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u2qEOUBzHxosx9TrnK5G1ThyUFay2ECmYT6uLz6hSe8avSHGbQjfVrwNQD2KcG2ByoEHchDvUqzRXO9uFysEQg==",
+  "dgSpecHash": "AA6zB0oAVUpCXP9REXF31Mylf1b31RD/jT7cAyivAmA4FeBiPJqH9kHKJ++DzaAvHGrSRo3r+RnkTLA594v/4Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\vlj\\dev\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\vlj\\dev\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

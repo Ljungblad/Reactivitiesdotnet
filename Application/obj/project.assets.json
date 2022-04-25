@@ -1131,8 +1131,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\vlj\\dev\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\vlj\\dev\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\vlj\\dev\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\vlj\\dev\\Reactivities\\Domain\\Domain.csproj"
             },
             "C:\\Users\\vlj\\dev\\Reactivities\\Persistence\\Persistence.csproj": {
               "projectPath": "C:\\Users\\vlj\\dev\\Reactivities\\Persistence\\Persistence.csproj"
