@@ -15,10 +15,10 @@ namespace Application.Activities
             public Activity Activity { get; set; }
         }
 
-        public class Hanlder : IRequestHandler<Command>
+        public class Handler : IRequestHandler<Command>
         {
             private readonly DataContext _context;
-            public Hanlder(DataContext context)
+            public Handler(DataContext context)
             {
             _context = context;
             }
